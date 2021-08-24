@@ -10,4 +10,4 @@ For all questions please feel free to contact us through [web form](https://sova
 
 ## License
 
-SOVA Dataset is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) license by Virtual Assistant, LLC.
+SOVA Developer Kit is licensed under Apache License 2.0 by Virtual Assistant, LLC.
